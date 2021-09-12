@@ -1,0 +1,7 @@
+name: <%= @project_name %>
+description: TODO
+author: <%= @your_name %>
+website: TODO
+protocol: git
+repository: TODO
+license: MIT

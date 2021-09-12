@@ -13,8 +13,8 @@ module MRubyGenerate
 
     desc 'version', 'print the version'
     def version
-      require 'convergence/version'
-      puts "version #{Convergence::VERSION}"
+      require 'mruby_generate/version'
+      puts "version #{MRubyGenerate::VERSION}"
     end
   end
 end

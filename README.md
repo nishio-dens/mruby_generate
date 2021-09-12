@@ -6,7 +6,7 @@ Generate a mruby project.
 
 ### Create New CLI Project
 
-`mruby\_generate new YOUR_PROJECT_NAME`
+`mruby_generate new YOUR_PROJECT_NAME`
 
 ## Development
 
